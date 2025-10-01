@@ -18,3 +18,6 @@ th {
 ul {
    margin:0;
 }
+table, tr, th, td {
+  border: 0;
+}
