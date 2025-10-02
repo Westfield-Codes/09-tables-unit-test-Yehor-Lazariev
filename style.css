@@ -19,5 +19,8 @@ ul {
    margin:0;
 }
 table, tr, th, td {
-  border: 0;
+  border: 1;
+}
+td:nth-child(3) img{
+width:200px;
 }
